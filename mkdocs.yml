@@ -1,4 +1,30 @@
 site_name: My Official Website
 nav:
-  - Home: index.md
-  - About: about.md
+    - Home: index.md             # 首頁
+    - 伯佳:                  # 建立一個主選單項目
+        - 第一篇: Recycled Plastics and the Circular Economy - How Blow Molding Technology Enables Sustainable Packaging.md
+        - 第二篇: 2025 Global Outlook for Plastic Blow Molding Industry - Smart Manufacturing, Energy Efficiency, and Sustainability.md
+        - 第三篇: 2025 Global Plastic Blow Molding Industry Outlook - Intelligent, Energy-Saving, and Sustainable Manufacturing.md
+        - 第四篇: Ensuring Safety and Boosting Output- The Role of Advanced Blow Molding in Dairy & Beverage Packaging.md
+        - 第五篇: New Challenges in Food and Beverage Packaging How Blow Molding Technology Ensures Safety and Efficiency for Dairy and Beverage Bottles.md
+        - 第六篇: Blow Molding Equipment Buying Guide - How to Choose the Right Machine for Your Production Needs.md
+    - 協磁:
+        - 第一篇: What is a Magnetic Drive Seal-less Pump -Advantages, Disadvantages, and Applications.md
+        - 第二篇: Corrosion-Resistant Design in Plastic Chemical Pumps Key Material Insights (PVDF, PP & Beyond).md
+    - 普家康:    
+        - 第一篇: Industrial Water Treatment Needs Water Quality Challenges and RO Solutions for Manufacturing, Drying Equipment, and Electronics Production Lines.md
+        - 第二篇: New Industrial Water Treatment Needs - Challenges and Solutions for Manufacturing, Drying Equipment, and Electronics Production.md
+    - 豐鵬:    
+        - 第一篇: FONGPREAN Concrete Screws- Strength, Speed, Reliability.md
+        - 第二篇: Modular Construction and Fast-Build Techniques - The Role of Patented Screws.md
+        - 第三篇: Patent Screws and International Standards Navigating CNS, ISO, and EN Compliance.md
+        - 第四篇: Patented Construction Screw Trends in 2025 - A New Era of Efficiency, Sustainability, and Safety.md
+        - 第五篇: Patented Screws in 2025 - A New Era of High Efficiency, Sustainability, and Structural Safety.md
+        - 第六篇: Patent Screws and Building Standards- Navigating CNS, ISO, and EN Compliance in Construction.md
+    - 嘉亨: 
+        - 第一篇: How to Ensure High Reliability and Long Lifespan in Medical Connectors.md
+        - 第二篇: New Challenges in Medical OEM ODM The Rise of Sustainable Manufacturing and Eco-Friendly Materials.md
+    - 實固: 
+        - 第一篇: Stage Scaffolding Solutions for Large Events and Stage Engineering.md
+        - 第二篇: How I Evaluate and Choose Scaffolding Systems That Meet EN74, BS1139, and OSHA Standards.md    
+        - 第三篇: Stage Scaffolding- Engineering Excellence for Large-Scale Event Infrastructures.md
