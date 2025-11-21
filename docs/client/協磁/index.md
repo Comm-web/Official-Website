@@ -6,8 +6,8 @@
 
 ## 文章列表
 
-* **[What is a Magnetic Drive Seal-less Pump -Advantages, Disadvantages, and Applications](What is a Magnetic Drive Seal-less Pump -Advantages, Disadvantages, and Applications.md)**
+* **[What is a Magnetic Drive Seal-less Pump -Advantages, Disadvantages, and Applications](What is a Magnetic Drive Seal-less Pump -Advantages, Disadvantages, and Applications)**
 
-* **[Corrosion-Resistant Design in Plastic Chemical Pumps Key Material Insights (PVDF, PP & Beyond)](Corrosion-Resistant Design in Plastic Chemical Pumps Key Material Insights (PVDF, PP & Beyond).md)**
+* **[Corrosion-Resistant Design in Plastic Chemical Pumps Key Material Insights (PVDF, PP & Beyond)](Corrosion-Resistant Design in Plastic Chemical Pumps Key Material Insights (PVDF, PP & Beyond))**
 
 ---
