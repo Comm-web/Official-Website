@@ -6,14 +6,14 @@
 
 ## 文章列表
 
-* **[A Professional’s Guide to Starting Your Bubble Tea Shop- Essential Ingredients & Supply Chain Mastery](A Professional’s Guide to Starting Your Bubble Tea Shop- Essential Ingredients & Supply Chain Mastery.md)**
+* [A Professional’s Guide to Starting Your Bubble Tea Shop](A Professional’s Guide to Starting Your Bubble Tea Shop- Essential Ingredients & Supply Chain Mastery)
 
-* **[Complete Guide Choosing the Right Tapioca Pearl and Tea for Your Market](Complete Guide Choosing the Right Tapioca Pearl and Tea for Your Market.md)**
+* [Complete Guide Choosing the Right Tapioca Pearl and Tea for Your Market](Complete Guide Choosing the Right Tapioca Pearl and Tea for Your Market)
 
-* **[Food & Halal Certifications for Bubble Tea Ingredients – A Procurement Guide](Food & Halal Certifications for Bubble Tea Ingredients – A Procurement Guide.md)**
+* [Food & Halal Certifications for Bubble Tea Ingredients](Food & Halal Certifications for Bubble Tea Ingredients – A Procurement Guide)
 
-* **[How to Choose the Right Tapioca Pearls and Tea for Your Market](How to Choose the Right Tapioca Pearls and Tea for Your Market.md)**
+* [How to Choose the Right Tapioca Pearls and Tea for Your Market](How to Choose the Right Tapioca Pearls and Tea for Your Market)
 
-* **[Why Restaurants or Cafes in the U.S. and Europe are Adding Bubble Tea to Their Menus - Case Studies & Lessons](Why Restaurants or Cafes in the U.S. and Europe are Adding Bubble Tea to Their Menus - Case Studies & Lessons.md)**
+* [Why Restaurants or Cafes in the U.S. and Europe are Adding Bubble Tea to Their Menus](Why Restaurants or Cafes in the U.S. and Europe are Adding Bubble Tea to Their Menus - Case Studies & Lessons)
 
 ---

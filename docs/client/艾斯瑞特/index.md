@@ -6,6 +6,6 @@
 
 ## 文章列表
 
-* **[From Crushing to Granulation- High-Efficiency Plastic Recycling Line Design and Flow](From Crushing to Granulation- High-Efficiency Plastic Recycling Line Design and Flow.md)**
+* [From Crushing to Granulation- High-Efficiency Plastic Recycling Line Design and Flow](From Crushing to Granulation- High-Efficiency Plastic Recycling Line Design and Flow)
 
 ---

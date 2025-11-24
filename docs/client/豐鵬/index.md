@@ -6,16 +6,16 @@
 
 ## 文章列表
 
-* **[FONGPREAN Concrete Screws - Strength, Speed, Reliability](FONGPREAN Concrete Screws- Strength, Speed, Reliability.md)**
+* [FONGPREAN Concrete Screws](FONGPREAN Concrete Screws- Strength, Speed, Reliability)
 
-* **[Modular Construction and Fast-Build Techniques - The Role of Patented Screws](Modular Construction and Fast-Build Techniques - The Role of Patented Screws.md)**
+* [Modular Construction and Fast-Build Techniques](Modular Construction and Fast-Build Techniques - The Role of Patented Screws)
 
-* **[Patent Screws and Building Standards- Navigating CNS, ISO, and EN Compliance in Construction](Patent Screws and Building Standards- Navigating CNS, ISO, and EN Compliance in Construction.md)**
+* [Patent Screws and Building Standards](Patent Screws and Building Standards- Navigating CNS, ISO, and EN Compliance in Construction)
 
-* **[Patent Screws and International Standards Navigating CNS, ISO, and EN Compliance](Patent Screws and International Standards Navigating CNS, ISO, and EN Compliance.md)**
+* [Patent Screws and International Standards Navigating CNS, ISO, and EN Compliance](Patent Screws and International Standards Navigating CNS, ISO, and EN Compliance)
 
-* **[Patented Construction Screw Trends in 2025 - A New Era of Efficiency, Sustainability, and Safety](Patented Construction Screw Trends in 2025 - A New Era of Efficiency, Sustainability, and Safety.md)**
+* [Patented Construction Screw Trends in 2025](Patented Construction Screw Trends in 2025 - A New Era of Efficiency, Sustainability, and Safety)
 
-* **[Patented Screws in 2025 - A New Era of High Efficiency, Sustainability, and Structural Safety](Patented Screws in 2025 - A New Era of High Efficiency, Sustainability, and Structural Safety.md)**
+* [A New Era of High Efficiency, Sustainability, and Structural Safety](Patented Screws in 2025 - A New Era of High Efficiency, Sustainability, and Structural Safety)
 
 ---

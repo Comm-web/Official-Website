@@ -6,10 +6,10 @@
 
 ## 文章列表
 
-* **[7 Questions You Must Ask Before Buying a Can Making Machine (+ Practical Solutions)](7 Questions You Must Ask Before Buying a Can Making Machine (+ Practical Solutions).md)**
+* [7 Questions You Must Ask Before Buying a Can Making Machine](7 Questions You Must Ask Before Buying a Can Making Machine (+ Practical Solutions))
 
-* **[Industrial 3 Piece Cans - Engineering for Corrosion Resistance and High-Pressure Performance](Industrial 3 Piece Cans - Engineering for Corrosion Resistance and High-Pressure Performance.md)**
+* [Industrial 3 Piece Cans - Engineering for Corrosion Resistance and High-Pressure Performance](Industrial 3 Piece Cans - Engineering for Corrosion Resistance and High-Pressure Performance)
 
-* **[Overcoming High Corrosion and Pressure- How Shin-I Machinery's Can-Making Equipment Ensures Safety and Efficiency](Overcoming High Corrosion and Pressure- How Shin-I Machinery's Can-Making Equipment Ensures Safety and Efficiency.md)**
+* [How Shin-I Machinery's Can-Making Equipment Ensures Safety and Efficiency](Overcoming High Corrosion and Pressure- How Shin-I Machinery's Can-Making Equipment Ensures Safety and Efficiency)
 
 ---

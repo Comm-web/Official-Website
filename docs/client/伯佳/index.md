@@ -6,16 +6,16 @@
 
 ## 文章列表
 
-* **[2025 Global Outlook for Plastic Blow Molding Industry - Smart Manufacturing, Energy Efficiency, and Sustainability](2025 Global Outlook for Plastic Blow Molding Industry - Smart Manufacturing, Energy Efficiency, and Sustainability.md)**
+* [2025 Global Outlook for Plastic Blow Molding Industry](2025 Global Outlook for Plastic Blow Molding Industry - Smart Manufacturing, Energy Efficiency, and Sustainability)
 
-* **[2025 Global Plastic Blow Molding Industry Outlook - Intelligent, Energy-Saving, and Sustainable Manufacturing](2025 Global Plastic Blow Molding Industry Outlook - Intelligent, Energy-Saving, and Sustainable Manufacturing.md)**
+* [2025 Global Plastic Blow Molding Industry Outlook](2025 Global Plastic Blow Molding Industry Outlook - Intelligent, Energy-Saving, and Sustainable Manufacturing)
 
-* **[Blow Molding Equipment Buying Guide - How to Choose the Right Machine for Your Production Needs](Blow Molding Equipment Buying Guide - How to Choose the Right Machine for Your Production Needs.md)**
+* [How to Choose the Right Machine for Your Production Needs](Blow Molding Equipment Buying Guide - How to Choose the Right Machine for Your Production Needs)
 
-* **[Ensuring Safety and Boosting Output- The Role of Advanced Blow Molding in Dairy & Beverage Packaging](Ensuring Safety and Boosting Output- The Role of Advanced Blow Molding in Dairy & Beverage Packaging.md)**
+* [The Role of Advanced Blow Molding in Dairy & Beverage Packaging](Ensuring Safety and Boosting Output- The Role of Advanced Blow Molding in Dairy & Beverage Packaging)
 
-* **[New Challenges in Food and Beverage Packaging How Blow Molding Technology Ensures Safety and Efficiency for Dairy and Beverage Bottles](New Challenges in Food and Beverage Packaging How Blow Molding Technology Ensures Safety and Efficiency for Dairy and Beverage Bottles.md)**
+* [How Blow Molding Technology Ensures Safety and Efficiency for Dairy and Beverage Bottles](New Challenges in Food and Beverage Packaging How Blow Molding Technology Ensures Safety and Efficiency for Dairy and Beverage Bottles)
 
-* **[Recycled Plastics and the Circular Economy - How Blow Molding Technology Enables Sustainable Packaging](Recycled Plastics and the Circular Economy - How Blow Molding Technology Enables Sustainable Packaging.md)**
+* [How Blow Molding Technology Enables Sustainable Packaging](Recycled Plastics and the Circular Economy - How Blow Molding Technology Enables Sustainable Packaging)
 
 ---

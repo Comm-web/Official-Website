@@ -6,8 +6,8 @@
 
 ## 文章列表
 
-* **[How to Choose the Right Tool Holder - 5 Key Procurement Indicators](How to Choose the Right Tool Holder - 5 Key Procurement Indicators.md)**
+* [How to Choose the Right Tool Holder - 5 Key Procurement Indicators](How to Choose the Right Tool Holder - 5 Key Procurement Indicators)
 
-* **[The Soul of Precision - A Technical Analysis of Dynamic Balance and Clamping Mechanics in CNC Tool Holders](The Soul of Precision - A Technical Analysis of Dynamic Balance and Clamping Mechanics in CNC Tool Holders.md)**
+* [A Technical Analysis of Dynamic Balance and Clamping Mechanics in CNC Tool Holders](The Soul of Precision - A Technical Analysis of Dynamic Balance and Clamping Mechanics in CNC Tool Holders)
 
 ---

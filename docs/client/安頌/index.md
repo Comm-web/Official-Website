@@ -6,8 +6,8 @@
 
 ## 文章列表
 
-* **[5 Key Factors to Consider When Purchasing a Hydraulic Vane Pump - Cost, Lead Time, Service, Quality, and Upgrade Potential](5 Key Factors to Consider When Purchasing a Hydraulic Vane Pump - Cost, Lead Time, Service, Quality, and Upgrade Potential.md)**
+* [5 Key Factors to Consider When Purchasing a Hydraulic Vane Pump](5 Key Factors to Consider When Purchasing a Hydraulic Vane Pump - Cost, Lead Time, Service, Quality, and Upgrade Potential)
 
-* **[Hydraulic Power Units for Green Manufacturing- ANSON’s Mini-Pack Approach](Hydraulic Power Units for Green Manufacturing- ANSON’s Mini-Pack Approach.md)**
+* [Hydraulic Power Units for Green Manufacturing- ANSON’s Mini-Pack Approach](Hydraulic Power Units for Green Manufacturing- ANSON’s Mini-Pack Approach)
 
 ---

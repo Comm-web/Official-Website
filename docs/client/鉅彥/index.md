@@ -6,6 +6,6 @@
 
 ## 文章列表
 
-* **[Complete Solutions from Plastic Recycling and Film Extrusion to Bag Manufacturing- Matila's Turnkey Advantages](Complete Solutions from Plastic Recycling and Film Extrusion to Bag Manufacturing- Matila's Turnkey Advantages.md)**
+* [Complete Solutions from Plastic Recycling and Film Extrusion to Bag Manufacturing](Complete Solutions from Plastic Recycling and Film Extrusion to Bag Manufacturing- Matila's Turnkey Advantages)
 
 ---

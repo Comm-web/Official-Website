@@ -6,10 +6,10 @@
 
 ## 文章列表
 
-* **[How I Evaluate and Choose Scaffolding Systems That Meet EN74, BS1139, and OSHA Standards](How I Evaluate and Choose Scaffolding Systems That Meet EN74, BS1139, and OSHA Standards.md)**
+* [How I Evaluate and Choose Scaffolding Systems](How I Evaluate and Choose Scaffolding Systems That Meet EN74, BS1139, and OSHA Standards)
 
-* **[Stage Scaffolding- Engineering Excellence for Large-Scale Event Infrastructures](Stage Scaffolding- Engineering Excellence for Large-Scale Event Infrastructures.md)**
+* [Stage Scaffolding- Engineering Excellence for Large-Scale Event Infrastructures](Stage Scaffolding- Engineering Excellence for Large-Scale Event Infrastructures)
 
-* **[Stage Scaffolding Solutions for Large Events and Stage Engineering](Stage Scaffolding Solutions for Large Events and Stage Engineering.md)**
+* [Stage Scaffolding Solutions for Large Events and Stage Engineering](Stage Scaffolding Solutions for Large Events and Stage Engineering)
 
 ---

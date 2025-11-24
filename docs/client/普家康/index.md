@@ -6,8 +6,8 @@
 
 ## 文章列表
 
-* **[Industrial Water Treatment Needs Water Quality Challenges and RO Solutions for Manufacturing, Drying Equipment, and Electronics Production Lines](Industrial Water Treatment Needs Water Quality Challenges and RO Solutions for Manufacturing, Drying Equipment, and Electronics Production Lines.md)**
+* [Industrial Water Treatment Needs Water Quality Challenges and RO Solutions](Industrial Water Treatment Needs Water Quality Challenges and RO Solutions for Manufacturing, Drying Equipment, and Electronics Production Lines)
 
-* **[New Industrial Water Treatment Needs - Challenges and Solutions for Manufacturing, Drying Equipment, and Electronics Production](New Industrial Water Treatment Needs - Challenges and Solutions for Manufacturing, Drying Equipment, and Electronics Production.md)**
+* [New Industrial Water Treatment Needs](New Industrial Water Treatment Needs - Challenges and Solutions for Manufacturing, Drying Equipment, and Electronics Production)
 
 ---

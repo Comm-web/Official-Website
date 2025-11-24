@@ -6,8 +6,8 @@
 
 ## 文章列表
 
-* **[How to Ensure High Reliability and Long Lifespan in Medical Connectors](How to Ensure High Reliability and Long Lifespan in Medical Connectors.md)**
+* [How to Ensure High Reliability and Long Lifespan in Medical Connectors](How to Ensure High Reliability and Long Lifespan in Medical Connectors)
 
-* **[New Challenges in Medical OEM/ODM: The Rise of Sustainable Manufacturing and Eco-Friendly Materials](New Challenges in Medical OEM ODM The Rise of Sustainable Manufacturing and Eco-Friendly Materials.md)**
+* [New Challenges in Medical OEM/ODM](New Challenges in Medical OEM ODM The Rise of Sustainable Manufacturing and Eco-Friendly Materials)
 
 ---

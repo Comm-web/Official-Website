@@ -6,8 +6,8 @@
 
 ## 文章列表
 
-* **[A Must-Read for Overseas Buyers Cost & Benefit Analysis of Bulk Purchasing ID Card Accessories](A Must-Read for Overseas Buyers Cost & Benefit Analysis of Bulk Purchasing ID Card Accessories.md)**
+* [A Must-Read for Overseas Buyers Cost & Benefit Analysis of Bulk Purchasing ID Card Accessories](A Must-Read for Overseas Buyers Cost & Benefit Analysis of Bulk Purchasing ID Card Accessories)
 
-* **[Why Choose An Ching as Your Trusted ID Card Accessories Supplier](Why Choose An Ching as Your Trusted ID Card Accessories Supplier.md)**
+* [Why Choose An Ching as Your Trusted ID Card Accessories Supplier](Why Choose An Ching as Your Trusted ID Card Accessories Supplier)
 
 ---
