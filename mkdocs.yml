@@ -1,6 +1,14 @@
 site_name: My Official Website
+use_directory_urls: true # 保持這個設定
 nav:
     - Home: index.md             # 首頁
     
-site_url: https://comm-web.github.io/Official-Website/
-use_directory_urls: true
+# -----------------------------------
+# 新增 repo_url 設定
+# -----------------------------------
+repo_url: https://github.com/Comm-web/Official-Website/
+repo_name: Official-Website
+edit_uri: edit/main/
+# -----------------------------------
+# 確保沒有 site_url 這一行
+# -----------------------------------
