@@ -7,4 +7,4 @@
 [合濟](client/合濟) | [心源](client/心源) | [伯佳](client/伯佳) | [實固](client/實固) | 
 [皇翼](client/皇翼) | [豐鵬](client/豐鵬) | [安威](client/安威) | [新益](client/新益) | 
 [協磁](client/協磁) | [嘉亨](client/嘉亨) | [艾斯瑞特](client/艾斯瑞特) | [安慶](client/安慶) | 
-[安碩](client/安碩) | [普家康](client/普家康) | [鉅彥](client/鉅彥) | [快密刀](client/快密刀) |
+[安頌](client/安頌) | [普家康](client/普家康) | [鉅彥](client/鉅彥) | [快密刀](client/快密刀) |
