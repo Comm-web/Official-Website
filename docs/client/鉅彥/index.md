@@ -8,4 +8,6 @@
 
 * [Complete Solutions from Plastic Recycling and Film Extrusion to Bag Manufacturing](Complete Solutions from Plastic Recycling and Film Extrusion to Bag Manufacturing- Matila's Turnkey Advantages)
 
+* [Integrated Application of Recycling Pelletizing and Blown Film Lines](Integrated Application of Recycling Pelletizing and Blown Film Lines - Building a Circular Production System)
+
 ---
